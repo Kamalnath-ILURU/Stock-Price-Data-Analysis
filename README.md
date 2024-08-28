@@ -7,5 +7,12 @@ This repository contains code and data for a project that uses numerical and tex
 * notebooks/: Contains Jupyter notebooks for exploratory data analysis and sentiment analysis.
 * requirements.txt: Lists the dependencies required to run the code.
 
+# Usage
+* Clone the repository using git clone https://github.com/your-username/Stock-Market-Prediction-Using-Numerical-and-Textual-Analysis.git.
+* Install the dependencies listed in requirements.txt using pip install -r requirements.txt.
+* Run the sentiment analysis script using python scripts/sentiment_analysis.py.
+* Run the numerical analysis script using python scripts/numerical_analysis.py.
+* Explore the results using the Jupyter notebooks in notebooks/.
+
 
 
