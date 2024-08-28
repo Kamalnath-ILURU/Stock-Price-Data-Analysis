@@ -10,8 +10,8 @@ This repository contains code and data for a project that uses numerical and tex
 # Usage
 * Clone the repository using git clone https://github.com/Kamalnath-ILURU/Stock-Price-Data-Analysis.git.
 * Install the dependencies listed in requirements.txt using pip install -r requirements.txt.
-* Run the sentiment analysis script using python scripts/sentiment_analysis.py.
-* Explore the results using the Jupyter notebooks in notebooks/.
+* Run the sentiment analysis script using python.
+* Explore the results using the Jupyter notebook.
 
 
 
