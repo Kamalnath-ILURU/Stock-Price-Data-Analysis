@@ -6,3 +6,8 @@ This repository contains code and data for a project that uses numerical and tex
 * data/: Contains the news headlines data in CSV format.
 * notebooks/: Contains Jupyter notebooks for exploratory data analysis and sentiment analysis.
 * requirements.txt: Lists the dependencies required to run the code.
+
+Install Dependencies
+Open a terminal or command prompt and navigate to the root directory of your project. Run the following command to install the dependencies:
+pip install -r requirements.txt
+
